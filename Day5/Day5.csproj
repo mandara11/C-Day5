@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Addeven.cs" />
     <Compile Include="Flipcoin.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="Program.cs" />
